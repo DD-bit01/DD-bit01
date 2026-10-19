@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-dilnawaz-ahmad-b4637732a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/DD-bit001?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=DD-bit001&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/DD-bit01?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DD-bit01&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -28,12 +28,13 @@ My work sits at the intersection of **Machine Learning, Computer Vision, and Emb
 
 | Project | Description | Tech |
 |---|---|---|
-| 🤟 **[SignBridge: Indian Sign Language Translator](https://github.com/DD-bit001/Indian-Sign-Language-translator)** | Real-time recognition of Indian Sign Language gestures to bridge communication gaps | Python, OpenCV, MediaPipe, TensorFlow/Keras |
+| 🧠 **[Deep Learning Journey](https://github.com/DD-bit01/deep-learning-journey)** | Numbered notebooks from a perceptron and backprop from scratch to CNNs, transfer learning and RNNs | PyTorch, TensorFlow/Keras, NumPy |
+| 🤟 **[SignBridge: Indian Sign Language Translator](https://github.com/DD-bit01/Indian-Sign-Language-translator)** | Real-time recognition of Indian Sign Language gestures to bridge communication gaps | Python, OpenCV, MediaPipe, TensorFlow/Keras |
 | 💬 **AI-Powered WhatsApp Chat Analyzer** | Chat statistics, user activity, visualizations, and text analysis | Python, Pandas, Matplotlib |
 | 🎙️ **Jarvis Voice Assistant** | Voice-controlled desktop assistant with AI responses | Python, OpenAI API |
 | 🚗 **IDSS: IoT Driver Safety System** | Monitors driver safety conditions using sensors and alerts | ESP32/Arduino, C++, IoT |
 | 🦯 **AI Assistance System for the Blind** | Assistive system that helps visually impaired users perceive their surroundings | Python, Computer Vision |
-| 🧩 **[DSA Solutions](https://github.com/DD-bit001/DSA_Solutions)** | My practice repo for data structures & algorithms | C++, Python |
+| 🧩 **[DSA Solutions](https://github.com/DD-bit01/DSA_Solutions)** | My practice repo for data structures & algorithms | C++, Python |
 
 ## 🧰 Tech Arsenal
 
@@ -64,12 +65,12 @@ My work sits at the intersection of **Machine Learning, Computer Vision, and Emb
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DD-bit001&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DD-bit001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DD-bit01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DD-bit01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DD-bit001&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=DD-bit01&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🤝 Let's Connect
